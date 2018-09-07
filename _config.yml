@@ -1,18 +1,18 @@
-title:             Clean Blog
+title:             QT's Blog
 email:             your-email@example.com
 description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+author:            QT
 baseurl:           "/"
-url:               "http://get.qt06.com"
+url:               "http://qt06.gitee.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  qt06com
+github_username:   qt06
+facebook_username: qt10011
 
 # Build settings
 markdown:          kramdown
-paginate:          5
+paginate:          10
 paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
